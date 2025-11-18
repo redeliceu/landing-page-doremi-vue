@@ -6,7 +6,7 @@
       <p class="text-center text-gray-600 mb-12 max-w-2xl mx-auto">O que torna o Colégio Dó-Ré-Mi único na região</p>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         <div
-          class="bg-gradient-to-br from-blue-50 to-white p-6 rounded-lg shadow-lg border-l-4 border-blue-900 hover:shadow-xl transition-shadow">
+          class="bg-gradient-to-br from-blue-50 to-white p-6 rounded-lg shadow-lg border-l-4 border-blue-900 hover:shadow-xl transition-all hover:scale-105">
           <div class="flex items-start mb-3">
             <svg class="w-8 h-8 text-blue-900 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
               <path
@@ -19,7 +19,7 @@
           </div>
         </div>
         <div
-          class="bg-gradient-to-br from-orange-50 to-white p-6 rounded-lg shadow-lg border-l-4 border-orange-500 hover:shadow-xl transition-shadow">
+          class="bg-gradient-to-br from-orange-50 to-white p-6 rounded-lg shadow-lg border-l-4 border-orange-500 hover:shadow-xl transition-all hover:scale-105">
           <div class="flex items-start mb-3">
             <svg class="w-8 h-8 text-orange-500 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
               <path fill-rule="evenodd"
@@ -33,7 +33,7 @@
           </div>
         </div>
         <div
-          class="bg-gradient-to-br from-blue-50 to-white p-6 rounded-lg shadow-lg border-l-4 border-blue-900 hover:shadow-xl transition-shadow">
+          class="bg-gradient-to-br from-blue-50 to-white p-6 rounded-lg shadow-lg border-l-4 border-blue-900 hover:shadow-xl transition-all hover:scale-105">
           <div class="flex items-start mb-3">
             <svg class="w-8 h-8 text-blue-900 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
               <path fill-rule="evenodd"
@@ -46,8 +46,9 @@
             </div>
           </div>
         </div>
+
         <div
-          class="bg-gradient-to-br from-orange-50 to-white p-6 rounded-lg shadow-lg border-l-4 border-orange-500 hover:shadow-xl transition-shadow">
+          class="bg-gradient-to-br from-orange-50 to-white p-6 rounded-lg shadow-lg border-l-4 border-orange-500 hover:shadow-xl transition-all hover:scale-105">
           <div class="flex items-start mb-3">
             <svg class="w-8 h-8 text-orange-500 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
               <path fill-rule="evenodd"
@@ -60,21 +61,48 @@
             </div>
           </div>
         </div>
+
         <div
-          class="bg-gradient-to-br from-blue-50 to-white p-6 rounded-lg shadow-lg border-l-4 border-blue-900 hover:shadow-xl transition-shadow">
+          class="bg-gradient-to-br from-blue-50 to-white p-6 rounded-lg shadow-lg border-l-4 border-blue-900 hover:shadow-xl transition-all hover:scale-105">
           <div class="flex items-start mb-3">
-            <svg class="w-8 h-8 text-blue-900 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-              <path
-                d="M9 4.804A7.968 7.968 0 005.5 4c-1.255 0-2.443.29-3.5.804v10A7.969 7.969 0 015.5 14c1.669 0 3.218.51 4.5 1.385A7.962 7.962 0 0114.5 14c1.255 0 2.443.29 3.5.804v-10A7.968 7.968 0 0014.5 4c-1.255 0-2.443.29-3.5.804V12a1 1 0 11-2 0V4.804z" />
-            </svg>
+
+            <font-awesome-icon class="text-3xl text-blue-900 mr-3 flex-shrink-1" icon="fa-solid fa-medal" />
+
             <div>
-              <h3 class="text-xl font-bold text-blue-900 mb-2">Projetos Integradores</h3>
-              <p class="text-gray-700">Cidadania, cultura, ciência e sustentabilidade fazem parte da rotina.</p>
+              <h3 class="text-xl font-bold text-blue-900 mb-2">Jiu-Jitsu</h3>
+              <p class="text-gray-700">Jiu-Jitsu desenvolve foco, respeito, autodefesa e fortalecimento físico e emocional.</p>
             </div>
           </div>
         </div>
+
         <div
-          class="bg-gradient-to-br from-orange-50 to-white p-6 rounded-lg shadow-lg border-l-4 border-orange-500 hover:shadow-xl transition-shadow">
+          class="bg-gradient-to-br from-orange-50 to-white p-6 rounded-lg shadow-lg border-l-4 border-orange-500 hover:shadow-xl transition-all hover:scale-105">
+          <div class="flex items-start mb-3">
+
+            <font-awesome-icon class="text-3xl text-orange-500 mr-3 flex-shrink-0" icon="fa-solid fa-child-dress" />
+
+            <div>
+              <h3 class="text-xl font-bold text-blue-900 mb-2">Ballet</h3>
+              <p class="text-gray-700">Ballet estimula postura, disciplina, criatividade e coordenação motora, promovendo graça e confiança em cada movimento.</p>
+            </div>
+          </div>
+        </div>
+
+        <div
+          class="bg-gradient-to-br from-blue-50 to-white p-6 rounded-lg shadow-lg border-l-4 border-blue-900 hover:shadow-xl transition-all hover:scale-105">
+          <div class="flex items-start mb-3">
+
+            <font-awesome-icon class="text-3xl text-blue-900 mr-3 flex-shrink-1" icon="fa-solid fa-people-arrows" />
+
+            <div>
+              <h3 class="text-xl font-bold text-blue-900 mb-2">Taekwondo</h3>
+              <p class="text-gray-700">Jiu-Jitsu desenvolve foco, respeito, autodefesa e fortalecimento físico e emocional.</p>
+            </div>
+          </div>
+        </div>
+
+        <div
+          class="bg-gradient-to-br from-orange-50 to-white p-6 rounded-lg shadow-lg border-l-4 border-orange-500 hover:shadow-xl transition-all hover:scale-105">
           <div class="flex items-start mb-3">
             <svg class="w-8 h-8 text-orange-500 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
               <path
@@ -86,6 +114,21 @@
             </div>
           </div>
         </div>
+
+        <div
+          class="bg-gradient-to-br from-blue-50 to-white p-6 rounded-lg shadow-lg border-l-4 border-blue-900 hover:shadow-xl transition-all hover:scale-105">
+          <div class="flex items-start mb-3">
+
+            <font-awesome-icon class="text-3xl text-blue-900 mr-3 flex-shrink-1" icon="fa-solid fa-volleyball" />
+
+            <div>
+              <h3 class="text-xl font-bold text-blue-900 mb-2">Quadra e Arena de Atividades</h3>
+              <p class="text-gray-700">Nossa Quadra e Arena de Atividades incentivam o movimento, a socialização e o espírito esportivo, oferecendo um espaço seguro e dinâmico para prática de esportes e desenvolvimento físico.</p>
+            </div>
+          </div>
+        </div>
+
+
       </div>
     </div>
   </section>

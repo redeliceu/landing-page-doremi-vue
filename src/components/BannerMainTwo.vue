@@ -11,8 +11,8 @@
       <div class="grid max-w-screen-xl px-2 pt-8 mx-auto lg:gap-2 xl:gap-0 lg:pt-2 lg:grid-cols-12">
         <div class="place-self-center lg:col-span-7 mt-14">
 
-          <h1 class="text-5xl font-bold text-white mb-6">Matrículas Abertas 2026</h1>
-          <p class="text-xl text-white/90 mb-6 leading-relaxed">Da Educação Infantil ao Ensino Médio, cada etapa
+          <h1 class="text-5xl text-center md:text-7xl font-bold text-white mb-6">Matrículas Abertas 2026</h1>
+          <p class="text-xl text-center md:text-start text-white/90 mb-6 leading-relaxed">Da Educação Infantil ao Ensino Médio, cada etapa
             pensada com dedicação para o futuro do seu filho.</p>
 
 
