@@ -3,7 +3,7 @@
   <!-- Header -->
 
   <section id="home" class="relative isolate overflow-hidden bg-azul-claro pt-8 sm:pt-15">
-    <img src="@/assets/images/bg.png" alt=""
+    <img src="@/assets/images/bg.webp" alt=""
       class="absolute inset-0 -z-10 size-full object-cover object-right md:object-center" />
 
 
@@ -65,7 +65,7 @@
 
         </div>
         <div class=" mt-3 lg:mt-0 lg:col-span-5 lg:flex self-end">
-          <img class="w-full h-auto" src="@/assets/images/menino.png" alt="Menino com o uniforme do Estacao futura">
+          <img class="w-full h-auto" src="@/assets/images/menino.webp" alt="Menino com o uniforme do Estacao futura">
         </div>
       </div>
     </div>

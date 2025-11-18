@@ -7,7 +7,7 @@
         <!-- Infantil -->
         <div class="bg-white p-6 rounded-lg shadow-lg border border-gray-200 hover:shadow-xl transition-shadow">
 
-          <img class="rounded-lg mb-4" src="@/assets/images/learn/educacao-infantil.png" alt="Educação Infantil">
+          <img class="rounded-lg mb-4" src="@/assets/images/learn/educacao-infantil.webp" alt="Educação Infantil">
 
 
           <h3 class="text-xl font-bold mb-2 text-blue-900">Educação Infantil</h3>
@@ -20,7 +20,7 @@
 
         <div class="bg-white p-6 rounded-lg shadow-lg border border-gray-200 hover:shadow-xl transition-shadow">
 
-          <img class="rounded-lg mb-4" src="@/assets/images/learn/ensino-fundamental.png" alt="Ensino Fundamental">
+          <img class="rounded-lg mb-4" src="@/assets/images/learn/ensino-fundamental.webp" alt="Ensino Fundamental">
 
           <h3 class="text-xl font-bold mb-2 text-blue-900">Ensino Fundamental</h3>
           <p class="text-gray-700 mb-4">Conhecimento e valores de mãos dadas.</p>
@@ -32,7 +32,7 @@
 
         <div class="bg-white p-6 rounded-lg shadow-lg border border-gray-200 hover:shadow-xl transition-shadow">
 
-          <img class="rounded-lg mb-4" src="@/assets/images/learn/ensino-medio.png" alt="Ensino Médio">
+          <img class="rounded-lg mb-4" src="@/assets/images/learn/ensino-medio.webp" alt="Ensino Médio">
 
              <h3 class="text-xl font-bold mb-2 text-blue-900">Ensino Médio</h3>
           <p class="text-gray-700 mb-4">Excelência acadêmica e projeto de vida.</p>

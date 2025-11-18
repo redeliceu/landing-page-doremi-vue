@@ -12,7 +12,7 @@
         </div>
       </div>
 
-      <img class="w-90 md:col-span-2 rounded-lg shadow-lg border border-gray-200 hover:shadow-xl transition-all hover:scale-105" src="@/assets/images/fachada.png" alt="">
+      <img class="w-90 md:col-span-2 rounded-lg shadow-lg border border-gray-200 hover:shadow-xl transition-all hover:scale-105" src="@/assets/images/fachada.webp" alt="Faixada da escola">
 
     </div>
   </section>
