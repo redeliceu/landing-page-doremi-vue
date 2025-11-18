@@ -5,40 +5,34 @@
       <h2 class="text-4xl font-bold text-blue-900 mb-8">Etapas de Ensino</h2>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <!-- Infantil -->
-        <div class="bg-white p-6 rounded-lg shadow-lg border border-gray-200 hover:shadow-xl transition-shadow">
-
-          <img class="rounded-lg mb-4" src="@/assets/images/learn/educacao-infantil.webp" alt="Educação Infantil">
-
-
-          <h3 class="text-xl font-bold mb-2 text-blue-900">Educação Infantil</h3>
-          <p class="text-gray-700 mb-4">Aprender brincando, com afeto e segurança.</p>
-          <p class="text-sm text-gray-600">Oferecemos um ambiente seguro e lúdico onde as crianças aprendem brincando,
-            desenvolvendo habilidades sociais, cognitivas e emocionais.</p>
-        </div>
+        <CardStaps
+          title="Educação Infantil"
+          :imageSrc="imgEducacao"
+          altText="Educação Infantil"
+          subtitle="Aprender brincando, com afeto e segurança."
+          description="Oferecemos um ambiente seguro e lúdico onde as crianças aprendem brincando,
+            desenvolvendo habilidades sociais, cognitivas e emocionais."
+          />
 
         <!-- Fundamental -->
-
-        <div class="bg-white p-6 rounded-lg shadow-lg border border-gray-200 hover:shadow-xl transition-shadow">
-
-          <img class="rounded-lg mb-4" src="@/assets/images/learn/ensino-fundamental.webp" alt="Ensino Fundamental">
-
-          <h3 class="text-xl font-bold mb-2 text-blue-900">Ensino Fundamental</h3>
-          <p class="text-gray-700 mb-4">Conhecimento e valores de mãos dadas.</p>
-          <p class="text-sm text-gray-600">Do 1º ao 9º ano, construímos bases sólidas com projetos interdisciplinares,
-            incentivo à leitura e desenvolvimento da autonomia.</p>
-        </div>
+        <CardStaps
+          title="Ensino Fundamental"
+          :imageSrc="imgFundamental"
+          altText="Ensino Fundamental"
+          subtitle="Conhecimento e valores de mãos dadas."
+          description="Do 1º ao 9º ano, construímos bases sólidas com projetos interdisciplinares,
+            incentivo à leitura e desenvolvimento da autonomia."
+          />
 
         <!-- Médio -->
-
-        <div class="bg-white p-6 rounded-lg shadow-lg border border-gray-200 hover:shadow-xl transition-shadow">
-
-          <img class="rounded-lg mb-4" src="@/assets/images/learn/ensino-medio.webp" alt="Ensino Médio">
-
-             <h3 class="text-xl font-bold mb-2 text-blue-900">Ensino Médio</h3>
-          <p class="text-gray-700 mb-4">Excelência acadêmica e projeto de vida.</p>
-          <p class="text-sm text-gray-600">Preparação completa para vestibular e ENEM, com professores especialistas,
-            orientação vocacional e foco no projeto de vida.</p>
-        </div>
+         <CardStaps
+          title="Ensino Médio"
+          :imageSrc="imgMedio"
+          altText="Ensino Médio"
+          subtitle="Excelência acadêmica e projeto de vida."
+          description="Preparação completa para vestibular e ENEM, com professores especialistas,
+            orientação vocacional e foco no projeto de vida."
+          />
 
       </div>
     </div>
@@ -47,5 +41,11 @@
 </template>
 
 <script setup lang="ts">
+import CardStaps from './ui/CardStaps.vue';
+
+import imgEducacao from '@/assets/images/learn/educacao-infantil.webp';
+import imgFundamental from '@/assets/images/learn/ensino-fundamental.webp';
+import imgMedio from '@/assets/images/learn/ensino-medio.webp';
+
 
 </script>
