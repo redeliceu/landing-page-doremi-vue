@@ -3,7 +3,7 @@
   <!-- Header -->
 
   <section id="home" class="relative isolate overflow-hidden bg-azul-claro pt-8 sm:pt-15">
-    <img src="@/assets/images/bg.webp" alt=""
+    <img src="@/assets/images/bg.webp" alt="Plano de fundo azul com formas abstratas"
       class="absolute inset-0 -z-10 size-full object-cover object-right md:object-center" />
 
 
