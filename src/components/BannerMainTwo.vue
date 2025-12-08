@@ -3,7 +3,8 @@
   <!-- Header -->
 
   <section id="home" class="relative isolate overflow-hidden bg-azul-claro pt-8 sm:pt-15">
-    <img src="@/assets/images/bg.webp" alt="Plano de fundo azul com formas abstratas"
+    <img src="@/assets/images/bg.webp" fetchpriority="high" width="1920" height="1080" decoding="async"
+      alt="Plano de fundo azul com formas abstratas"
       class="absolute inset-0 -z-10 size-full object-cover object-right md:object-center" />
 
 
@@ -12,7 +13,8 @@
         <div class="place-self-center lg:col-span-7 mt-14">
 
           <h1 class="text-5xl text-center md:text-7xl font-bold text-white mb-6">Matrículas Abertas 2026</h1>
-          <p class="text-xl text-center md:text-start text-white/90 mb-6 leading-relaxed">Da Educação Infantil ao Ensino Médio, cada etapa
+          <p class="text-xl text-center md:text-start text-white/90 mb-6 leading-relaxed">Da Educação Infantil ao Ensino
+            Médio, cada etapa
             pensada com dedicação para o futuro do seu filho.</p>
 
 
