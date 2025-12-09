@@ -60,7 +60,8 @@
 
         </div>
         <div class=" mt-3 lg:mt-0 lg:col-span-5 lg:flex self-end">
-          <img class="w-full h-auto" src="@/assets/images/menino.webp" alt="Menino com o uniforme do Estacao futura">
+          <img class="w-full h-auto md:hidden" src="@/assets/images/menino-mobile.webp" alt="Menino com o uniforme do Estacao futura">
+          <img class="w-full h-auto hidden md:block" src="@/assets/images/menino-desktop.webp" alt="Menino com o uniforme do Estacao futura">
         </div>
       </div>
     </div>

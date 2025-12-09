@@ -2,8 +2,8 @@
 
   <div class="bg-white p-6 rounded-lg shadow-lg border border-gray-200 hover:shadow-xl transition-shadow">
 
-    <img loading="lazy" width="400"
-      height="250" class="rounded-lg mb-4" :src="imageSrc" :alt="altText">
+    <img loading="lazy" width="614"
+      height="409" class="rounded-lg mb-4" :src="imageSrc" :alt="altText">
 
 
     <h3 class="text-xl font-bold mb-2 text-blue-900">{{ title }}</h3>
