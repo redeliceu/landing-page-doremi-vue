@@ -60,8 +60,8 @@
 
         </div>
         <div class=" mt-3 lg:mt-0 lg:col-span-5 lg:flex self-end">
-          <img class="w-full h-auto md:hidden" height="400" width="300" src="@/assets/images/menino-mobile.webp" alt="Menino com o uniforme do Estacao futura">
-          <img class="w-full h-auto hidden md:block" height="400" width="300" src="@/assets/images/menino-desktop.webp" alt="Menino com o uniforme do Estacao futura">
+          <img class="w-full h-auto md:hidden" height="522" width="704" src="@/assets/images/menino-mobile.webp" alt="Menino com o uniforme do Estacao futura">
+          <img class="w-full h-auto hidden md:block" height="785" width="1058" src="@/assets/images/menino-desktop.webp" alt="Menino com o uniforme do Estacao futura">
         </div>
       </div>
     </div>
