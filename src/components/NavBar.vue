@@ -10,7 +10,7 @@
             <div class="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
 
                 <a class="text-white bg-laranja-escuro focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-lg px-4 py-2 text-center shadow-lg hover:shadow-xl transition-all hover:scale-105"
-                    href="https://wa.me/5511934992247">
+                    href="https://wa.me/5511922225421">
                     Contato
                   </a>
 

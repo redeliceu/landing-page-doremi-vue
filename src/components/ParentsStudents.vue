@@ -55,7 +55,7 @@
             </svg>
             <h3 class="text-xl font-bold text-blue-900 mb-2">Comunicação</h3>
             <p class="text-gray-700 mb-4">Agendas, WhatsApp e reuniões periódicas</p>
-            <a href="https://wa.me/5511934992247" target="_blank"
+            <a href="https://wa.me/5511922225421" target="_blank"
               class="text-orange-500 hover:text-orange-600 font-semibold">Fale Conosco →</a>
           </div>
         </div>
@@ -68,7 +68,7 @@
           <a href="#contato"
             class="bg-blue-900 text-white px-8 py-3 rounded-lg hover:bg-blue-800 font-semibold inline-block transition-all hover:scale-105">Fale
             com a Secretaria</a>
-          <a href="https://wa.me/5511934992247" target="_blank"
+          <a href="https://wa.me/5511922225421" target="_blank"
             class="bg-green-500 text-white px-8 py-3 rounded-lg hover:bg-green-600 font-semibold inline-block transition-all hover:scale-105">WhatsApp</a>
         </div>
       </div>

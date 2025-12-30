@@ -28,7 +28,7 @@
                   <path
                     d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
                 </svg>
-                (11) 934992247
+                (11) 922225421
               </p>
               <p class="text-gray-700 text-sm flex items-center justify-center">
                 <svg class="w-4 h-4 text-orange-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
@@ -77,8 +77,8 @@
               </svg>
             </div>
             <h3 class="text-xl font-bold text-blue-900 mb-3">WhatsApp</h3>
-            <p class="text-2xl font-bold text-green-600 mb-4">(11) 934992247</p>
-            <a href="https://wa.me/5511934992247" target="_blank"
+            <p class="text-2xl font-bold text-green-600 mb-4">(11) 922225421</p>
+            <a href="https://wa.me/5511922225421" target="_blank"
               class="bg-green-500 text-white px-6 py-3 rounded-lg hover:bg-green-600 font-semibold inline-flex items-center transition-all hover:scale-105 shadow-md">
               <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24">
                 <path
